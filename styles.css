@@ -203,7 +203,7 @@ section {
     & .item {
       transform: translateX(calc(100vw * var(--calculation)));
       transition: 0.5s;
-      opacity: .0;
+      opacity: 0;
 
       & .car-img {
         & img {
