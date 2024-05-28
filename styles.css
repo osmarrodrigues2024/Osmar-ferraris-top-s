@@ -241,7 +241,7 @@ section {
     & .active {
       transform: translateX(0);
       transition: 0.5s;
-      opacity: .1;
+      opacity: 1;
 
       & .car-img {
         & img {
